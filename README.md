@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Marjan-Milani Im Msc in AI
+- 👋 Hi, I’m @Marjan-Milani 
+- Im Msc in AI and also bachelore in software
 - 👀 I’m interested in coding and security 
 - 🌱 I’m currently learning python and machine learning
 - 💞️ I’m here for learn more coding
