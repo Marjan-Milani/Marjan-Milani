@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Marjan-Milani 
-- Im Msc in AI and also bachelore in software
-- 👀 I’m interested in coding and security 
-- 🌱 I’m currently learning python and machine learning
-- 💞️ I’m here for learn more coding
-- 📫 contact me: > telegram: @shahparion
+- 👋 Hi, I’m 25 Yo girl ^_^ 
+- I've Msc in AI and also bachelor in software
+- 👀 as well as interested in coding  
+- 🌱 I am currently learning Python and machine learning
+- 💞️ and here for learn more about computer science
+- 📫 contact me: > Marjan.milani76@gmail.com
 
 <!---
 Marjan-Milani/Marjan-Milani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
