@@ -1,5 +1,5 @@
-- 👋 Hi, I’m 25 Yo girl ^_^ 
-- I've Msc in AI and also bachelor in software
+- 👋 Hi, I’m 25 Yo girl.
+- I've Msc in AI and also bachelor in software engineering
 - 👀 as well as interested in coding  
 - 🌱 I am currently learning Python and machine learning
 - 💞️ and here for learn more about computer science
