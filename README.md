@@ -1,7 +1,7 @@
 - 👋 Hi, I’m 25 Yo girl.
 - I've Msc in AI and also bachelor in software engineering
 - 👀 as well as interested in coding  
-- 🌱 I am currently learning Python and machine learning
+- 🌱 I am currently focusing on SOC 
 - 💞️ and here for learn more about computer science
 - 📫 contact me: > Marjan.milani76@gmail.com
 
