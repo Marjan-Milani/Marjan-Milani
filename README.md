@@ -1,4 +1,4 @@
-- 👋 Hi, I’m 25 Yo girl.
+- 👋 Hi, I’m 28 Yo girl.
 - I've Msc in AI and also bachelor in software engineering
 - 👀 as well as interested in coding  
 - 🌱 I am currently focusing on SOC 
